@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Suma Saber**
 
-- 🌱 I’m currently learning **Python & Flask**
+- 🌱 I want to keep learning **Python & Flask**
 
 - 📫 How to reach me: **manuelbarretosp@gmail.com**
 
@@ -13,9 +13,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/manuel-barreto-b44a021b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manuel-barreto-b44a021b8/" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">My github stats:</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=manus9&show_icons=true&theme=tokyonight">
 
 <h3 align="left">My top languages:</h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manus9&layout=compact&theme=tokyonight">
