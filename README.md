@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manuel Barreto</h1>
-<h3 align="center">A Full-Stack developer from Montevideo</h3>
+<h4>I'm a statistics student passionate about data analysis and full-stack web development. I love uncovering insights and building tech solutions to simplify life. My background includes admin support, customer service, and solving technical challenges. I thrive on problem-solving and creating user-friendly, efficient solutions!
+</h4>
 
 - 🔭 I’m currently working on **Suma Saber**
 
